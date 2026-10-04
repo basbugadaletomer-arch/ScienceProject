@@ -1,0 +1,7 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Arduino Uno R3"
+"1",1," Breadboard Küçük"
+"S2, S3, S4, S5, S6",5," Basmalı Buton"
+"R2, R3, R4, R5, R6",5,"10 kΩ Direnç"
+"SERVO1",1,"Konumsal Mikro Servo"
+"U2",1,"MCP23008-tabanlı, 32 (0x20) LCD 16 x 2 (I2C)"
